@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>UnloadAllMagazines</RootNamespace>
-    <AssemblyName>UnloadAllMagazines</AssemblyName>
+    <AssemblyName>maschine-UnloadAllMagazines</AssemblyName>
     <Nullable>disable</Nullable>
     <Authors>maschine</Authors>
     <Company>https://github.com/maschine34675/UnloadAllMagazines</Company>
