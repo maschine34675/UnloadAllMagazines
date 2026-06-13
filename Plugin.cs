@@ -4,7 +4,7 @@ using UnloadAllMagazines.Patches;
 
 namespace UnloadAllMagazines
 {
-    [BepInPlugin("com.maschine.UnloadAllMagazines", "UnloadAllMagazines", "1.0.0")]
+    [BepInPlugin("com.maschine.UnloadAllMagazines", "maschine-UnloadAllMagazines", "1.0.0")]
     public class Plugin : BaseUnityPlugin
     {
         public static ManualLogSource Log;
